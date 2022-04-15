@@ -27,7 +27,7 @@ layout: default
       <div class="col-lg-12">
         <h3 class="font-tertiary mb-5">{{ page.title | escape }}</h3>
         <p class="font-secondary">게시일: {{ page.date | date: '%Y년 %m월 %d일' }} | 게시자: <span class="text-primary">{{ page.author }}</span
-            class="text-primary"><span> | 카테고리: {{ page.tags }}</span></p>
+            class="text-primary"><span> | 카테고리: {{ page.tags }} </span></p>
         <div class="content">
           <img src="{{page.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{page.title}}">
           {{ content }}
