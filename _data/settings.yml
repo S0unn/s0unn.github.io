@@ -1,20 +1,20 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: 아무거나봇
 logo: 
 author: themefisher
 description: this is meta description
 email: steve.fruits@email.com
 phone: +880 2544 658 256
 address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2022 아무거나봇
 
 menu:
-- {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: 소개, link: '/about'}
+- {name: 업데이트, link: '/blog'}
+# - {name: Po, link: '/portfolio'}
+- {name: 연락, link: '/contact'}
 
 
 #-------------------------------
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: 사람과 <br> 사람을 <br> 연결합니다.
 
 social:
 - {icon: "ti-facebook", link: "#"}
