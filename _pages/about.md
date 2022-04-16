@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About Me
-author: Johnathan Smith
+title: 소개
+author: 태양봇
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
