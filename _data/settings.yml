@@ -14,9 +14,6 @@ menu:
 - {name: 소개, link: '/about'}
 - {name: 업데이트, link: '/blog'}
 # - {name: Po, link: '/portfolio'}
-- {name: 연락, link: '/contact'}
-- {name: 이용약관, link: '/terms'}
-- {name: 개인정보처리방침, link: '/privacy'}
 
 
 #-------------------------------
